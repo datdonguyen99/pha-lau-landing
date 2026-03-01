@@ -1,1 +1,2 @@
 # pha-lau-landing
+INIT
